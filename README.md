@@ -1,8 +1,8 @@
-#LAB-2 | LINEAR-REGRERSSION
+# LAB-2 | LINEAR-REGRERSSION
 
 Name: Baibhav Kaphle
 
-##Task-1 | Simple linear regression
+## Task-1 | Simple linear regression
 
 In this task linear regression model is trained from  California housing as its training dataset for predicting median house value.
 It followed the pipeline as follows:
@@ -15,12 +15,12 @@ It followed the pipeline as follows:
 6.Model Learning (Training)
 7.Model Evaluation
 
-##Task-2 | Mutiple linear regression
+## Task-2 | Mutiple linear regression
 
 In this task,multiple linear regression model was developed without using the target variable(MedHouseVal). Instead scaling is done and model performance is compared with task 1
 
 
-##Tools used
+## Tools used
 
 1. matplotlib
 2. pandas
